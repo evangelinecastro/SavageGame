@@ -8,10 +8,7 @@ public class dataHandler: MonoBehaviour
     public string pName1;
     public string pName2;
     public int pHealth;
-
     public int winner;
-
-    
 
     private void Awake()
     {
